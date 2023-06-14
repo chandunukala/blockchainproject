@@ -1,4 +1,4 @@
-# blockchainproject
+# decentratwitter
 decentralising twitter
 
 Technology Stack & Tools
